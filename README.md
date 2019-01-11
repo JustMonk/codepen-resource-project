@@ -1,1 +1,1 @@
-# res
+# codepen project resources
